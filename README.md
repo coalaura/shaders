@@ -13,3 +13,9 @@ This shader is a simple brightness adjustment shader that brightens only the dar
 
 **After**
 ![after](.github/brightness_after.png)
+
+---
+
+## BearPog
+
+More info in the [BearPog](https://github.com/coalaura/BearPog) repo.
