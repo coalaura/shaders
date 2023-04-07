@@ -6,7 +6,7 @@ A collection of shaders I've made for [reshade](https://reshade.me/).
 
 ### AdaptiveBrightness
 
-This shader is a simple brightness adjustment shader that brightens only the dark areas and/or darkens the bright areas of the image.
+This shader is a simple brightness adjustment shader that brightens only the dark areas of the image.
 
 **Before**
 ![before](.github/brightness_before.png)
