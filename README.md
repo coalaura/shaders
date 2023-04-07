@@ -1,10 +1,10 @@
-## Laura's reshade shaders
+# Laura's reshade shaders
 
 A collection of shaders I've made for [reshade](https://reshade.me/).
 
 ---
 
-### AdaptiveBrightness
+## AdaptiveBrightness
 
 This shader is a simple brightness adjustment shader that brightens only the dark areas of the image.
 
