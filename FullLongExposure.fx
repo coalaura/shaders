@@ -73,8 +73,11 @@ uniform bool UI_ShowProgress <
     ui_category= "Long Exposure";
 > = true;
 
-uniform int UI_TemporalSubsamples < __UNIFORM_SLIDER_INT1
-    ui_min = 1; ui_max = 16; ui_step = 1;
+uniform int UI_TemporalSubsamples <
+    ui_type    = "slider";
+    ui_min     = 1;
+    ui_max     = 16;
+    ui_step    = 1;
     ui_label   = "Temporal Subsamples";
     ui_tooltip = "Higher values reduce choppiness on low FPS. Default 4 works for most cases.";
     ui_category= "Long Exposure";
